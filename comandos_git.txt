@@ -1,0 +1,5 @@
+git pull
+git checkout -b desarrollo-1
+git add .
+git commit -m "mensaje"
+git push origin desarrollo-1
